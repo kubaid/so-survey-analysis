@@ -1,0 +1,6 @@
+# Packages to be installed
+numpy
+pandas
+matplotlib
+seaborn
+forex_python
